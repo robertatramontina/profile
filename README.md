@@ -32,6 +32,8 @@ Não foi utilizado CSS personalizado.
 ```text
 profile/
 ├── index.html
+├── css/
+│   └── bootstrap.css
 ├── images/
 │   ├── coding.png
 │   ├── profile_photo.png
